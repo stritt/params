@@ -1,0 +1,26 @@
+{
+  "name": "@burcs/params",
+  "version": "0.1.1",
+  "scripts": {
+    "postinstall": "node configure.js"
+  },
+  "description": "Your site powered by your URL.",
+  "main": "script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stritt/params.git"
+  },
+  "keywords": [
+    "params",
+    "cms",
+    "bodyless",
+    "realtime",
+    "content"
+  ],
+  "author": "burcs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stritt/params/issues"
+  },
+  "homepage": "https://github.com/stritt/params#readme"
+}
